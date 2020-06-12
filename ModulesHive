@@ -1,0 +1,298 @@
+[
+  {
+    "active": true,
+    "name": "InventoryManager"
+  },
+  {
+    "active": false,
+    "name": "MouseDelayFix"
+  },
+  {
+    "active": true,
+    "name": "InventoryMove"
+  },
+  {
+    "active": false,
+    "name": "NoRotationSet"
+  },
+  {
+    "active": false,
+    "name": "Death Teleport"
+  },
+  {
+    "active": false,
+    "name": "AutoResponse"
+  },
+  {
+    "active": true,
+    "name": "NoJumpDelay"
+  },
+  {
+    "active": false,
+    "name": "NoBreakDelay"
+  },
+  {
+    "active": true,
+    "name": "AutoRespawn"
+  },
+  {
+    "active": false,
+    "name": "NameProtect"
+  },
+  {
+    "active": true,
+    "name": "NoSlowdown"
+  },
+  {
+    "active": false,
+    "name": "BlockBreaker"
+  },
+  {
+    "active": true,
+    "name": "BreakDisplay"
+  },
+  {
+    "active": false,
+    "name": "BlockOverlay"
+  },
+  {
+    "active": true,
+    "name": "ChestStealer"
+  },
+  {
+    "active": true,
+    "name": "FlagDetector"
+  },
+  {
+    "active": true,
+    "name": "Notifications"
+  },
+  {
+    "active": false,
+    "name": "FastLadders"
+  },
+  {
+    "active": true,
+    "name": "ItemPhysics"
+  },
+  {
+    "active": true,
+    "name": "Module List"
+  },
+  {
+    "active": true,
+    "name": "StorageESP"
+  },
+  {
+    "active": true,
+    "name": "Trajectories"
+  },
+  {
+    "active": true,
+    "name": "NightVision"
+  },
+  {
+    "active": false,
+    "name": "Scoreboard"
+  },
+  {
+    "active": false,
+    "name": "AutoClicker"
+  },
+  {
+    "active": true,
+    "name": "HueControl"
+  },
+  {
+    "active": false,
+    "name": "Watermark"
+  },
+  {
+    "active": true,
+    "name": "Keystrokes"
+  },
+  {
+    "active": false,
+    "name": "AntiCactus"
+  },
+  {
+    "active": false,
+    "name": "PingSpoof"
+  },
+  {
+    "active": false,
+    "name": "LongJump"
+  },
+  {
+    "active": false,
+    "name": "ImageESP"
+  },
+  {
+    "active": false,
+    "name": "NoFriends"
+  },
+  {
+    "active": false,
+    "name": "FastBreak"
+  },
+  {
+    "active": false,
+    "name": "FastPlace"
+  },
+  {
+    "active": true,
+    "name": "TrueSight"
+  },
+  {
+    "active": false,
+    "name": "AutoTool"
+  },
+  {
+    "active": false,
+    "name": "SuperHit"
+  },
+  {
+    "active": false,
+    "name": "Hurtcam"
+  },
+  {
+    "active": false,
+    "name": "MiniMap"
+  },
+  {
+    "active": false,
+    "name": "Teleport"
+  },
+  {
+    "active": false,
+    "name": "Scaffold"
+  },
+  {
+    "active": false,
+    "name": "FakeLag"
+  },
+  {
+    "active": true,
+    "name": "ItemESP"
+  },
+  {
+    "active": false,
+    "name": "Criticals"
+  },
+  {
+    "active": true,
+    "name": "Velocity"
+  },
+  {
+    "active": false,
+    "name": "Parkour"
+  },
+  {
+    "active": false,
+    "name": "KillAura"
+  },
+  {
+    "active": false,
+    "name": "FastEat"
+  },
+  {
+    "active": false,
+    "name": "Tracers"
+  },
+  {
+    "active": false,
+    "name": "AntiBot"
+  },
+  {
+    "active": true,
+    "name": "Spotify"
+  },
+  {
+    "active": true,
+    "name": "Chams"
+  },
+  {
+    "active": false,
+    "name": "Shader"
+  },
+  {
+    "active": true,
+    "name": "TntESP"
+  },
+  {
+    "active": false,
+    "name": "NoBob"
+  },
+  {
+    "active": true,
+    "name": "TabGui"
+  },
+  {
+    "active": true,
+    "name": "Hotbar"
+  },
+  {
+    "active": false,
+    "name": "Teams"
+  },
+  {
+    "active": false,
+    "name": "Strafe"
+  },
+  {
+    "active": false,
+    "name": "Regen"
+  },
+  {
+    "active": false,
+    "name": "NoFall"
+  },
+  {
+    "active": false,
+    "name": "Speed"
+  },
+  {
+    "active": true,
+    "name": "Armor"
+  },
+  {
+    "active": true,
+    "name": "Sprint"
+  },
+  {
+    "active": false,
+    "name": "Jesus"
+  },
+  {
+    "active": false,
+    "name": "Flight"
+  },
+  {
+    "active": false,
+    "name": "VClip"
+  },
+  {
+    "active": true,
+    "name": "Fade"
+  },
+  {
+    "active": false,
+    "name": "Step"
+  },
+  {
+    "active": false,
+    "name": "Test"
+  },
+  {
+    "active": true,
+    "name": "ESP"
+  },
+  {
+    "active": false,
+    "name": "Blur"
+  },
+  {
+    "active": false,
+    "name": "Gui"
+  }
+]
