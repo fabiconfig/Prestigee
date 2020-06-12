@@ -1,1 +1,912 @@
-
+{
+  "InventoryMove": [
+    {
+      "value": false,
+      "name": "Advanced"
+    }
+  ],
+  "BlockOverlay": [
+    {
+      "value": false,
+      "name": "Use depth"
+    },
+    {
+      "value": false,
+      "name": "Use client color"
+    },
+    {
+      "value": "{hue:0.0, r:250, g:1, b:1, mouseXOffset:120.5, mouseYOffset: 1.0, hueXOffset:0.0}",
+      "name": "Color"
+    },
+    {
+      "value": 7.0,
+      "name": "Alpha"
+    }
+  ],
+  "KillAura": [
+    {
+      "value": "Distance",
+      "name": "Priority"
+    },
+    {
+      "value": [
+        8.0,
+        13.0
+      ],
+      "name": "CPS"
+    },
+    {
+      "value": 4.7,
+      "name": "Range"
+    },
+    {
+      "value": 0.6,
+      "name": "Aim range"
+    },
+    {
+      "value": 177.0,
+      "name": "Switch delay"
+    },
+    {
+      "value": [
+        0.9322034,
+        0.86440676,
+        0.9322034,
+        0.8305085
+      ],
+      "name": "Rotation curve"
+    },
+    {
+      "value": true,
+      "name": "Players"
+    },
+    {
+      "value": false,
+      "name": "Animals"
+    },
+    {
+      "value": false,
+      "name": "Mobs"
+    },
+    {
+      "value": true,
+      "name": "Always swing"
+    },
+    {
+      "value": false,
+      "name": "Through walls"
+    },
+    {
+      "value": false,
+      "name": "Interrupt attack"
+    },
+    {
+      "value": false,
+      "name": "W Tap"
+    },
+    {
+      "value": "Legit",
+      "name": "W Tap Mode"
+    },
+    {
+      "value": true,
+      "name": "Block"
+    },
+    {
+      "value": true,
+      "name": "Combat Mode"
+    },
+    {
+      "value": "Toggle",
+      "name": "Block Mode"
+    },
+    {
+      "value": false,
+      "name": "Lock view"
+    },
+    {
+      "value": false,
+      "name": "Angle slowdown"
+    },
+    {
+      "value": 119.87599,
+      "name": "Degrees"
+    },
+    {
+      "value": true,
+      "name": "Randomize"
+    },
+    {
+      "value": [
+        -1.7,
+        1.4
+      ],
+      "name": "Randomize Numbers"
+    },
+    {
+      "value": false,
+      "name": "RayTrace"
+    },
+    {
+      "value": false,
+      "name": "Correct movement"
+    },
+    {
+      "value": [
+        "Circle",
+        "Box",
+        "Flat Box"
+      ],
+      "name": "Target ESP"
+    }
+  ],
+  "Chams": [
+    {
+      "value": 185.0,
+      "name": "Alpha"
+    },
+    {
+      "value": true,
+      "name": "Mixing colors"
+    },
+    {
+      "value": 255.0,
+      "name": "Model strength"
+    },
+    {
+      "value": "{hue:0.0, r:250, g:1, b:1, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}",
+      "name": "Mixing color"
+    }
+  ],
+  "Flight": [
+    {
+      "value": "CubeCraft",
+      "name": "Mode"
+    },
+    {
+      "value": "Normal",
+      "name": "Method"
+    },
+    {
+      "value": "1.9.10",
+      "name": "Version"
+    },
+    {
+      "value": 3.0,
+      "name": "Boost"
+    },
+    {
+      "value": 99.0,
+      "name": "Factor"
+    },
+    {
+      "value": true,
+      "name": "Air Walk"
+    }
+  ],
+  "FastLadders": [
+    {
+      "value": "Teleport",
+      "name": "Mode"
+    },
+    {
+      "value": 6.0,
+      "name": "Delay"
+    },
+    {
+      "value": 2.0,
+      "name": "Height"
+    }
+  ],
+  "Scaffold": [
+    {
+      "value": true,
+      "name": "No Sprint"
+    },
+    {
+      "value": false,
+      "name": "Keep Y"
+    },
+    {
+      "value": true,
+      "name": "Anti Headroll"
+    },
+    {
+      "value": false,
+      "name": "Correct movement"
+    },
+    {
+      "value": true,
+      "name": "Safe Walk"
+    },
+    {
+      "value": true,
+      "name": "Better interact"
+    },
+    {
+      "value": false,
+      "name": "Keep rotations"
+    },
+    {
+      "value": true,
+      "name": "Downward"
+    },
+    {
+      "value": false,
+      "name": "Boost"
+    },
+    {
+      "value": false,
+      "name": "Expand"
+    },
+    {
+      "value": 5.0,
+      "name": "Expand length"
+    },
+    {
+      "value": [
+        1.0,
+        1.0
+      ],
+      "name": "Interaction rate"
+    },
+    {
+      "value": [
+        1.0,
+        1.0
+      ],
+      "name": "Timer"
+    },
+    {
+      "value": "Switch",
+      "name": "Silent"
+    },
+    {
+      "value": true,
+      "name": "Server Swing"
+    },
+    {
+      "value": "Nice",
+      "name": "Client Swing"
+    },
+    {
+      "value": true,
+      "name": "Tower Walk"
+    },
+    {
+      "value": "Motion",
+      "name": "Tower Mode"
+    }
+  ],
+  "Step": [
+    {
+      "value": "Vanilla",
+      "name": "Mode"
+    },
+    {
+      "value": 1.0,
+      "name": "Height"
+    },
+    {
+      "value": 0.0,
+      "name": "Delay"
+    },
+    {
+      "value": 1.0,
+      "name": "Timer"
+    }
+  ],
+  "Teleport": [
+    {
+      "value": "AAC3",
+      "name": "Mode"
+    },
+    {
+      "value": true,
+      "name": "Auto Disable"
+    }
+  ],
+  "Spotify": [
+    {
+      "value": [
+        858.53656,
+        0.0
+      ],
+      "name": "Screen position"
+    }
+  ],
+  "Shader": [
+    {
+      "value": "Fading",
+      "name": "Shader Mode"
+    },
+    {
+      "value": false,
+      "name": "Multiple textures"
+    },
+    {
+      "value": 4.0,
+      "name": "Outline radius"
+    },
+    {
+      "value": 100.0,
+      "name": "Alpha intensity"
+    },
+    {
+      "value": 4.0,
+      "name": "Blur radius"
+    },
+    {
+      "value": 4.0,
+      "name": "Sigma"
+    },
+    {
+      "value": 255.0,
+      "name": "Alpha modifier"
+    },
+    {
+      "value": false,
+      "name": "Use client color"
+    },
+    {
+      "value": "{hue:0.0, r:245, g:1, b:7, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}",
+      "name": "Color"
+    }
+  ],
+  "MiniMap": [
+    {
+      "value": 83.0,
+      "name": "Radius"
+    },
+    {
+      "value": 3.3,
+      "name": "Scale"
+    },
+    {
+      "value": [
+        960.0,
+        451.2
+      ],
+      "name": "Screen position"
+    }
+  ],
+  "FakeLag": [
+    {
+      "value": false,
+      "name": "Blink"
+    },
+    {
+      "value": false,
+      "name": "Better Interact"
+    },
+    {
+      "value": false,
+      "name": "Damage Check"
+    },
+    {
+      "value": [
+        250.0,
+        500.0
+      ],
+      "name": "Delay"
+    }
+  ],
+  "Criticals": [
+    {
+      "value": "Crack",
+      "name": "Mode"
+    },
+    {
+      "value": 1.0,
+      "name": "Crack size"
+    }
+  ],
+  "InventoryManager": [
+    {
+      "value": true,
+      "name": "Clear"
+    },
+    {
+      "value": true,
+      "name": "Armor"
+    },
+    {
+      "value": false,
+      "name": "Sort"
+    },
+    {
+      "value": true,
+      "name": "Sort swords"
+    },
+    {
+      "value": true,
+      "name": "Sort bow"
+    },
+    {
+      "value": true,
+      "name": "Sort tools"
+    },
+    {
+      "value": true,
+      "name": "Sort food"
+    },
+    {
+      "value": [
+        60.0,
+        117.0
+      ],
+      "name": "Delay"
+    },
+    {
+      "value": true,
+      "name": "Random Slots"
+    }
+  ],
+  "TntESP": [
+    {
+      "value": true,
+      "name": "Advanced"
+    },
+    {
+      "value": 1.5,
+      "name": "Damage"
+    }
+  ],
+  "AutoResponse": [
+    {
+      "value": 70.0,
+      "name": "Threshold"
+    }
+  ],
+  "ItemESP": [
+    {
+      "value": [
+        "Shader"
+      ],
+      "name": "ESP Mode"
+    },
+    {
+      "value": "Corner",
+      "name": "2D Mode"
+    },
+    {
+      "value": false,
+      "name": "Use client color"
+    },
+    {
+      "value": "{hue:0.0, r:255, g:255, b:255, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}",
+      "name": "Color"
+    }
+  ],
+  "Strafe": [
+    {
+      "value": 100.0,
+      "name": "Strength"
+    },
+    {
+      "value": false,
+      "name": "Hurt-time"
+    }
+  ],
+  "Keystrokes": [
+    {
+      "value": [
+        913.1707,
+        499.19998
+      ],
+      "name": "Screen position"
+    }
+  ],
+  "AntiBot": [
+    {
+      "value": false,
+      "name": "Head roll"
+    },
+    {
+      "value": false,
+      "name": "Ground"
+    },
+    {
+      "value": false,
+      "name": "GWEN"
+    },
+    {
+      "value": false,
+      "name": "Sprint"
+    },
+    {
+      "value": false,
+      "name": "Swing"
+    },
+    {
+      "value": false,
+      "name": "Sneak"
+    }
+  ],
+  "Blur": [
+    {
+      "value": 18.0,
+      "name": "Radius"
+    },
+    {
+      "value": 18.0,
+      "name": "Sigma"
+    }
+  ],
+  "LongJump": [
+    {
+      "value": "Boost",
+      "name": "Mode"
+    },
+    {
+      "value": 3.0,
+      "name": "Boost"
+    },
+    {
+      "value": 99.0,
+      "name": "Factor"
+    }
+  ],
+  "ImageESP": [],
+  "AutoTool": [
+    {
+      "value": false,
+      "name": "Full Silent"
+    }
+  ],
+  "FastBreak": [
+    {
+      "value": 1.1,
+      "name": "Multiply"
+    }
+  ],
+  "VClip": [
+    {
+      "value": 5.0,
+      "name": "Height"
+    }
+  ],
+  "ChestStealer": [
+    {
+      "value": true,
+      "name": "Instant"
+    },
+    {
+      "value": true,
+      "name": "Random Slots"
+    },
+    {
+      "value": true,
+      "name": "Faster"
+    },
+    {
+      "value": [
+        60.0,
+        81.0
+      ],
+      "name": "Delay"
+    }
+  ],
+  "Speed": [
+    {
+      "value": "Bhop",
+      "name": "Mode"
+    },
+    {
+      "value": "AAC",
+      "name": "Bhop"
+    },
+    {
+      "value": "Hive",
+      "name": "Type"
+    },
+    {
+      "value": "CubeCraft",
+      "name": "Ground"
+    },
+    {
+      "value": 2.3,
+      "name": "Speed"
+    },
+    {
+      "value": 100.0,
+      "name": "Percentage"
+    }
+  ],
+  "PingSpoof": [
+    {
+      "value": [
+        1000.0,
+        1000.0
+      ],
+      "name": "Delay"
+    }
+  ],
+  "ESP": [
+    {
+      "value": [
+        "Shader",
+        "Outline"
+      ],
+      "name": "ESP Mode"
+    },
+    {
+      "value": "Box",
+      "name": "2D Mode"
+    },
+    {
+      "value": 3.6,
+      "name": "Line width"
+    },
+    {
+      "value": false,
+      "name": "Draw grid"
+    },
+    {
+      "value": 45.0,
+      "name": "Grid step"
+    },
+    {
+      "value": false,
+      "name": "Use client color"
+    },
+    {
+      "value": "{hue:0.0, r:250, g:1, b:7, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}",
+      "name": "Color"
+    },
+    {
+      "value": true,
+      "name": "Look vector"
+    }
+  ],
+  "Hurtcam": [
+    {
+      "value": 25.0,
+      "name": "Strength"
+    }
+  ],
+  "Hotbar": [
+    {
+      "value": false,
+      "name": "Short"
+    },
+    {
+      "value": true,
+      "name": "Blur"
+    }
+  ],
+  "BlockBreaker": [
+    {
+      "value": false,
+      "name": "Fast destroy"
+    },
+    {
+      "value": 3.0,
+      "name": "Packets"
+    },
+    {
+      "value": false,
+      "name": "Through walls"
+    },
+    {
+      "value": 4.0,
+      "name": "Range"
+    }
+  ],
+  "NoFall": [
+    {
+      "value": "AAC",
+      "name": "Mode"
+    }
+  ],
+  "Velocity": [
+    {
+      "value": "AAC",
+      "name": "Mode"
+    },
+    {
+      "value": "Push",
+      "name": "Intave Mode"
+    },
+    {
+      "value": "AAC3 Reverse",
+      "name": "AAC Mode"
+    },
+    {
+      "value": 81.0,
+      "name": "Strength"
+    }
+  ],
+  "Regen": [
+    {
+      "value": 2.0,
+      "name": "Packets"
+    },
+    {
+      "value": false,
+      "name": "While Moving"
+    },
+    {
+      "value": false,
+      "name": "While In Air"
+    }
+  ],
+  "AutoClicker": [
+    {
+      "value": [
+        8.0,
+        12.0
+      ],
+      "name": "CPS"
+    },
+    {
+      "value": false,
+      "name": "Jitter"
+    }
+  ],
+  "NoSlowdown": [
+    {
+      "value": 100.0,
+      "name": "Slowdown"
+    },
+    {
+      "value": false,
+      "name": "Remove air reduction"
+    },
+    {
+      "value": true,
+      "name": "Consumables"
+    },
+    {
+      "value": 67.0,
+      "name": "Consum Slowdown"
+    },
+    {
+      "value": true,
+      "name": "Spoof"
+    },
+    {
+      "value": "NCP",
+      "name": "Spoof Mode"
+    }
+  ],
+  "ItemPhysics": [
+    {
+      "value": 2.0,
+      "name": "Rotation"
+    }
+  ],
+  "Parkour": [
+    {
+      "value": false,
+      "name": "Motion"
+    },
+    {
+      "value": 1.0,
+      "name": "Prediction"
+    }
+  ],
+  "FastEat": [
+    {
+      "value": 7.0,
+      "name": "Reaction Time"
+    },
+    {
+      "value": 2.0,
+      "name": "Packets"
+    },
+    {
+      "value": 1.0,
+      "name": "Timer"
+    }
+  ],
+  "Module List": [
+    {
+      "value": "Rainbow",
+      "name": "Color addition"
+    },
+    {
+      "value": true,
+      "name": "Color offset"
+    },
+    {
+      "value": 1900.0,
+      "name": "Offset speed"
+    },
+    {
+      "value": true,
+      "name": "Use client color"
+    },
+    {
+      "value": "{hue:0.0, r:255, g:255, b:255, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}",
+      "name": "Text Color"
+    },
+    {
+      "value": true,
+      "name": "Background"
+    },
+    {
+      "value": 181.0,
+      "name": "Alpha"
+    },
+    {
+      "value": true,
+      "name": "Outline"
+    }
+  ],
+  "Sprint": [
+    {
+      "value": true,
+      "name": "Keep sprinting"
+    },
+    {
+      "value": true,
+      "name": "Block sprint"
+    },
+    {
+      "value": false,
+      "name": "All Direction"
+    },
+    {
+      "value": 60.0,
+      "name": "Speed"
+    }
+  ],
+  "StorageESP": [
+    {
+      "value": [
+        "Shader",
+        "Outline"
+      ],
+      "name": "ESP Mode"
+    },
+    {
+      "value": 3.5,
+      "name": "Line width"
+    },
+    {
+      "value": "Filled",
+      "name": "2D Mode"
+    },
+    {
+      "value": false,
+      "name": "Use client color"
+    },
+    {
+      "value": "{hue:0.0, r:1, g:14, b:250, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}",
+      "name": "Color"
+    }
+  ],
+  "Notifications": [
+    {
+      "value": [
+        920.9756,
+        345.6
+      ],
+      "name": "Position"
+    }
+  ],
+  "Watermark": [
+    {
+      "value": "{hue:0.0, r:250, g:249, b:249, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}",
+      "name": "Color"
+    },
+    {
+      "value": [
+        0.0,
+        0.0
+      ],
+      "name": "Screen Location"
+    }
+  ],
+  "Fade": [
+    {
+      "value": 134.0,
+      "name": "Alpha"
+    },
+    {
+      "value": true,
+      "name": "Top"
+    }
+  ]
+}
