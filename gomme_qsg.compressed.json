@@ -1,0 +1,1347 @@
+{
+  "settings": {
+    "InventoryMove": [
+      {
+        "name": "Advanced",
+        "value": false
+      }
+    ],
+    "Flight": [
+      {
+        "name": "Mode",
+        "value": "CubeCraft"
+      },
+      {
+        "name": "Method",
+        "value": "Normal"
+      },
+      {
+        "name": "Version",
+        "value": "1.9.10"
+      },
+      {
+        "name": "Boost",
+        "value": 3.0
+      },
+      {
+        "name": "Factor",
+        "value": 99.0
+      }
+    ],
+    "Teleport": [
+      {
+        "name": "Mode",
+        "value": "Vanilla"
+      },
+      {
+        "name": "Auto Disable",
+        "value": false
+      }
+    ],
+    "Spotify": [
+      {
+        "name": "Screen position",
+        "value": [
+          0.0,
+          243.89583
+        ]
+      }
+    ],
+    "Shader": [
+      {
+        "name": "Shader Mode",
+        "value": "Gaussian"
+      },
+      {
+        "name": "Use stencil buffer",
+        "value": true
+      },
+      {
+        "name": "Outline radius",
+        "value": 2.0
+      },
+      {
+        "name": "Alpha intensity",
+        "value": 100.0
+      },
+      {
+        "name": "Blur radius",
+        "value": 4.0
+      },
+      {
+        "name": "Sigma",
+        "value": 3.0
+      },
+      {
+        "name": "Alpha modifier",
+        "value": 255.0
+      },
+      {
+        "name": "Use client color",
+        "value": true
+      },
+      {
+        "name": "Color",
+        "value": "{hue:0.0, r:255, g:255, b:255, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}"
+      }
+    ],
+    "Criticals": [
+      {
+        "name": "Mode",
+        "value": "Crack"
+      }
+    ],
+    "TntESP": [
+      {
+        "name": "Advanced",
+        "value": false
+      },
+      {
+        "name": "Damage",
+        "value": 0.5
+      }
+    ],
+    "AutoResponse": [
+      {
+        "name": "Threshold",
+        "value": 70.0
+      }
+    ],
+    "ItemESP": [
+      {
+        "name": "ESP Mode",
+        "value": [
+          "Shader"
+        ]
+      },
+      {
+        "name": "2D Mode",
+        "value": "Box"
+      },
+      {
+        "name": "Use client color",
+        "value": false
+      },
+      {
+        "name": "Color",
+        "value": "{hue:0.0, r:255, g:255, b:255, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}"
+      }
+    ],
+    "Strafe": [
+      {
+        "name": "Strength",
+        "value": 100.0
+      },
+      {
+        "name": "Hurt-time",
+        "value": false
+      }
+    ],
+    "Blur": [
+      {
+        "name": "Radius",
+        "value": 30.0
+      },
+      {
+        "name": "Sigma",
+        "value": 12.0
+      }
+    ],
+    "AutoTool": [
+      {
+        "name": "Full Silent",
+        "value": false
+      }
+    ],
+    "VClip": [
+      {
+        "name": "Height",
+        "value": 3.0
+      }
+    ],
+    "PingSpoof": [
+      {
+        "name": "Delay",
+        "value": [
+          48.0,
+          411.0
+        ]
+      }
+    ],
+    "Hurtcam": [
+      {
+        "name": "Strength",
+        "value": 25.0
+      }
+    ],
+    "NoFall": [
+      {
+        "name": "Mode",
+        "value": "Vanilla"
+      }
+    ],
+    "Regen": [
+      {
+        "name": "Packets",
+        "value": 10.0
+      },
+      {
+        "name": "While Moving",
+        "value": false
+      },
+      {
+        "name": "While In Air",
+        "value": false
+      }
+    ],
+    "AutoClicker": [
+      {
+        "name": "CPS",
+        "value": [
+          8.0,
+          12.0
+        ]
+      },
+      {
+        "name": "Jitter",
+        "value": false
+      }
+    ],
+    "ItemPhysics": [
+      {
+        "name": "Rotation",
+        "value": 2.0
+      }
+    ],
+    "FastEat": [
+      {
+        "name": "Reaction Time",
+        "value": 7.0
+      },
+      {
+        "name": "Packets",
+        "value": 2.0
+      },
+      {
+        "name": "Timer",
+        "value": 1.0
+      }
+    ],
+    "SpinBot": [
+      {
+        "name": "Yaw",
+        "value": "Jitter"
+      },
+      {
+        "name": "Pitch",
+        "value": "Jitter"
+      },
+      {
+        "name": "Anti head roll",
+        "value": false
+      },
+      {
+        "name": "Server Side",
+        "value": false
+      }
+    ],
+    "Sprint": [
+      {
+        "name": "Keep sprinting",
+        "value": false
+      },
+      {
+        "name": "Block sprint",
+        "value": false
+      },
+      {
+        "name": "All Direction",
+        "value": false
+      },
+      {
+        "name": "Speed",
+        "value": 82.0
+      }
+    ],
+    "Fade": [
+      {
+        "name": "Alpha",
+        "value": 255.0
+      },
+      {
+        "name": "Top",
+        "value": false
+      }
+    ],
+    "BlockOverlay": [
+      {
+        "name": "Use depth",
+        "value": false
+      },
+      {
+        "name": "Use client color",
+        "value": false
+      },
+      {
+        "name": "Color",
+        "value": "{hue:0.0, r:255, g:255, b:255, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}"
+      },
+      {
+        "name": "Alpha",
+        "value": 150.0
+      }
+    ],
+    "KillAura": [
+      {
+        "name": "Priority",
+        "value": "Angle"
+      },
+      {
+        "name": "CPS",
+        "value": [
+          9.0,
+          13.0
+        ]
+      },
+      {
+        "name": "Range",
+        "value": 3.7
+      },
+      {
+        "name": "Aim range",
+        "value": 0.5
+      },
+      {
+        "name": "Switch delay",
+        "value": 565.0
+      },
+      {
+        "name": "Rotation curve",
+        "value": [
+          1.0,
+          0.1864407,
+          0.45762712,
+          0.7457627
+        ]
+      },
+      {
+        "name": "Environmental adjustment",
+        "value": true
+      },
+      {
+        "name": "Exclude Team from Raytrace",
+        "value": false
+      },
+      {
+        "name": "Players",
+        "value": true
+      },
+      {
+        "name": "Animals",
+        "value": false
+      },
+      {
+        "name": "Mobs",
+        "value": false
+      },
+      {
+        "name": "Always swing",
+        "value": true
+      },
+      {
+        "name": "Through walls",
+        "value": false
+      },
+      {
+        "name": "Interrupt attack",
+        "value": false
+      },
+      {
+        "name": "Vector hit",
+        "value": false
+      },
+      {
+        "name": "W Tap",
+        "value": true
+      },
+      {
+        "name": "W Tap Mode",
+        "value": "Legit"
+      },
+      {
+        "name": "Block",
+        "value": true
+      },
+      {
+        "name": "Combat Mode",
+        "value": true
+      },
+      {
+        "name": "Block Mode",
+        "value": "Constant"
+      },
+      {
+        "name": "Lock view",
+        "value": false
+      },
+      {
+        "name": "Angle slowdown",
+        "value": false
+      },
+      {
+        "name": "Degrees",
+        "value": 174.14398
+      },
+      {
+        "name": "Randomize",
+        "value": true
+      },
+      {
+        "name": "Randomize Numbers",
+        "value": [
+          -1.5,
+          1.8
+        ]
+      },
+      {
+        "name": "RayTrace",
+        "value": true
+      },
+      {
+        "name": "Correct movement",
+        "value": true
+      },
+      {
+        "name": "Movement Mode",
+        "value": "Silent"
+      },
+      {
+        "name": "Target strafe",
+        "value": false
+      },
+      {
+        "name": "No inv attack",
+        "value": false
+      },
+      {
+        "name": "Close delay",
+        "value": 50.0
+      }
+    ],
+    "Chams": [
+      {
+        "name": "Alpha",
+        "value": 255.0
+      },
+      {
+        "name": "Mixing colors",
+        "value": false
+      },
+      {
+        "name": "Model strength",
+        "value": 255.0
+      },
+      {
+        "name": "Mixing color",
+        "value": "{hue:0.0, r:255, g:255, b:255, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}"
+      }
+    ],
+    "FastLadders": [
+      {
+        "name": "Mode",
+        "value": "Intave"
+      },
+      {
+        "name": "Delay",
+        "value": 20.0
+      },
+      {
+        "name": "Height",
+        "value": 2.0
+      }
+    ],
+    "Step": [
+      {
+        "name": "Mode",
+        "value": "Vanilla"
+      },
+      {
+        "name": "Height",
+        "value": 1.0
+      },
+      {
+        "name": "Delay",
+        "value": 0.0
+      },
+      {
+        "name": "Timer",
+        "value": 1.0
+      }
+    ],
+    "MiniMap": [
+      {
+        "name": "Radius",
+        "value": 100.0
+      },
+      {
+        "name": "Scale",
+        "value": 2.0
+      },
+      {
+        "name": "Screen position",
+        "value": [
+          449.6487,
+          424.16666
+        ]
+      }
+    ],
+    "FakeLag": [
+      {
+        "name": "Blink",
+        "value": false
+      },
+      {
+        "name": "Better Interact",
+        "value": true
+      },
+      {
+        "name": "Damage Check",
+        "value": true
+      },
+      {
+        "name": "Delay",
+        "value": [
+          100.0,
+          150.0
+        ]
+      }
+    ],
+    "InventoryManager": [
+      {
+        "name": "Simulate inventory",
+        "value": false
+      },
+      {
+        "name": "Stand still",
+        "value": false
+      },
+      {
+        "name": "Delay",
+        "value": [
+          65.0,
+          145.0
+        ]
+      },
+      {
+        "name": "Random Slots",
+        "value": true
+      }
+    ],
+    "Scoreboard": [
+      {
+        "name": "Show scoreboard",
+        "value": true
+      },
+      {
+        "name": "Y-Position",
+        "value": 2.0
+      }
+    ],
+    "Keystrokes": [
+      {
+        "name": "Screen position",
+        "value": [
+          920.9756,
+          461.25305
+        ]
+      }
+    ],
+    "AntiBot": [
+      {
+        "name": "Head roll",
+        "value": false
+      },
+      {
+        "name": "Ground",
+        "value": false
+      },
+      {
+        "name": "GWEN",
+        "value": false
+      },
+      {
+        "name": "Sprint",
+        "value": false
+      },
+      {
+        "name": "Swing",
+        "value": false
+      },
+      {
+        "name": "Sneak",
+        "value": false
+      },
+      {
+        "name": "Tablist",
+        "value": false
+      },
+      {
+        "name": "Hurt",
+        "value": false
+      },
+      {
+        "name": "Fall distance",
+        "value": false
+      },
+      {
+        "name": "Fall height",
+        "value": 2.5
+      },
+      {
+        "name": "Ticks existed",
+        "value": 200.0
+      }
+    ],
+    "Teams": [
+      {
+        "name": "Mode",
+        "value": [
+          "Color",
+          "Team Number"
+        ]
+      }
+    ],
+    "LongJump": [
+      {
+        "name": "Mode",
+        "value": "Boost"
+      },
+      {
+        "name": "Boost",
+        "value": 3.0
+      },
+      {
+        "name": "Factor",
+        "value": 99.0
+      }
+    ],
+    "ImageESP": [],
+    "ScaffoldWalk": [
+      {
+        "name": "No Sprint",
+        "value": true
+      },
+      {
+        "name": "Safe walk",
+        "value": true
+      },
+      {
+        "name": "Fast bridge",
+        "value": false
+      },
+      {
+        "name": "Ignore rotation",
+        "value": true
+      },
+      {
+        "name": "Anti Headroll",
+        "value": true
+      },
+      {
+        "name": "Fall back on final rotation",
+        "value": true
+      },
+      {
+        "name": "Natural hit facing",
+        "value": true
+      },
+      {
+        "name": "Ignore misses",
+        "value": true
+      },
+      {
+        "name": "Correct vector placing",
+        "value": true
+      },
+      {
+        "name": "Silent",
+        "value": "Spoof"
+      },
+      {
+        "name": "Interaction rate",
+        "value": [
+          2.0,
+          3.0
+        ]
+      },
+      {
+        "name": "Movement factor",
+        "value": [
+          100.0,
+          100.0
+        ]
+      },
+      {
+        "name": "Place movement factor",
+        "value": [
+          100.0,
+          100.0
+        ]
+      }
+    ],
+    "FastBreak": [
+      {
+        "name": "Instant",
+        "value": false
+      },
+      {
+        "name": "Multiply",
+        "value": 1.0
+      },
+      {
+        "name": "Air divisor",
+        "value": 5.0
+      }
+    ],
+    "ChestStealer": [
+      {
+        "name": "Instant",
+        "value": false
+      },
+      {
+        "name": "Random Slots",
+        "value": true
+      },
+      {
+        "name": "Faster",
+        "value": true
+      },
+      {
+        "name": "Delay",
+        "value": [
+          117.0,
+          173.0
+        ]
+      }
+    ],
+    "Speed": [
+      {
+        "name": "Mode",
+        "value": "Bhop"
+      },
+      {
+        "name": "Bhop",
+        "value": "Legit"
+      },
+      {
+        "name": "Type",
+        "value": "Hive"
+      },
+      {
+        "name": "Ground",
+        "value": "CubeCraft"
+      },
+      {
+        "name": "Speed",
+        "value": 1.33
+      },
+      {
+        "name": "Percentage",
+        "value": 100.0
+      }
+    ],
+    "ESP": [
+      {
+        "name": "ESP Mode",
+        "value": [
+          "Shader"
+        ]
+      },
+      {
+        "name": "2D Mode",
+        "value": "Box"
+      },
+      {
+        "name": "Line width",
+        "value": 1.5
+      },
+      {
+        "name": "Draw grid",
+        "value": false
+      },
+      {
+        "name": "Grid step",
+        "value": 45.0
+      },
+      {
+        "name": "Use client color",
+        "value": false
+      },
+      {
+        "name": "Color",
+        "value": "{hue:0.0, r:255, g:255, b:255, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}"
+      },
+      {
+        "name": "Look vector",
+        "value": false
+      }
+    ],
+    "BlockESP": [
+      {
+        "name": "ESP Mode",
+        "value": [
+          "2D"
+        ]
+      },
+      {
+        "name": "Line width",
+        "value": 1.5
+      },
+      {
+        "name": "2D Mode",
+        "value": "Box"
+      },
+      {
+        "name": "Use client color",
+        "value": false
+      },
+      {
+        "name": "Color",
+        "value": "{hue:0.0, r:255, g:255, b:255, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}"
+      }
+    ],
+    "Hotbar": [
+      {
+        "name": "Short",
+        "value": true
+      },
+      {
+        "name": "Blur",
+        "value": true
+      }
+    ],
+    "BlockBreaker": [
+      {
+        "name": "Fast destroy",
+        "value": false
+      },
+      {
+        "name": "Packets",
+        "value": 3.0
+      },
+      {
+        "name": "Through walls",
+        "value": false
+      },
+      {
+        "name": "Range",
+        "value": 4.0
+      }
+    ],
+    "NameProtect": [
+      {
+        "name": "Better visibility",
+        "value": true
+      }
+    ],
+    "Velocity": [
+      {
+        "name": "Mode",
+        "value": "Intave"
+      },
+      {
+        "name": "Vertical",
+        "value": 50.0
+      },
+      {
+        "name": "Horizontal",
+        "value": 50.0
+      },
+      {
+        "name": "Intave Mode",
+        "value": "Reverse"
+      },
+      {
+        "name": "AAC Mode",
+        "value": "AAC3 Push"
+      },
+      {
+        "name": "Strength",
+        "value": 77.0
+      },
+      {
+        "name": "Disrupt movement (%)",
+        "value": 91.0
+      },
+      {
+        "name": "Boost delay",
+        "value": 218.0
+      },
+      {
+        "name": "Stop difference",
+        "value": 97.0
+      },
+      {
+        "name": "Only moving",
+        "value": false
+      },
+      {
+        "name": "Jump on ground",
+        "value": false
+      }
+    ],
+    "NoSlowdown": [
+      {
+        "name": "Slowdown",
+        "value": 65.0
+      },
+      {
+        "name": "Remove air reduction",
+        "value": true
+      },
+      {
+        "name": "Consumables",
+        "value": true
+      },
+      {
+        "name": "Consum Slowdown",
+        "value": 65.0
+      },
+      {
+        "name": "Spoof",
+        "value": false
+      },
+      {
+        "name": "Spoof Mode",
+        "value": "NCP"
+      }
+    ],
+    "Parkour": [
+      {
+        "name": "Motion",
+        "value": false
+      },
+      {
+        "name": "Prediction",
+        "value": 1.0
+      }
+    ],
+    "HitAnimation": [
+      {
+        "name": "Swing",
+        "value": "Default"
+      },
+      {
+        "name": "Block",
+        "value": "Power"
+      }
+    ],
+    "Module List": [
+      {
+        "name": "Color addition",
+        "value": "Pulsate"
+      },
+      {
+        "name": "Color offset",
+        "value": true
+      },
+      {
+        "name": "Offset speed",
+        "value": 4000.0
+      },
+      {
+        "name": "Use client color",
+        "value": true
+      },
+      {
+        "name": "Text Color",
+        "value": "{hue:0.0, r:255, g:255, b:255, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}"
+      },
+      {
+        "name": "Background Mode",
+        "value": "Rectangle"
+      },
+      {
+        "name": "Alpha",
+        "value": 200.0
+      },
+      {
+        "name": "Outline",
+        "value": true
+      },
+      {
+        "name": "Shadow string",
+        "value": false
+      }
+    ],
+    "StorageESP": [
+      {
+        "name": "ESP Mode",
+        "value": [
+          "Shader"
+        ]
+      },
+      {
+        "name": "Line width",
+        "value": 1.5
+      },
+      {
+        "name": "2D Mode",
+        "value": "Box"
+      },
+      {
+        "name": "Use client color",
+        "value": false
+      },
+      {
+        "name": "Color",
+        "value": "{hue:0.0, r:255, g:255, b:255, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}"
+      }
+    ],
+    "Watermark": [
+      {
+        "name": "Color",
+        "value": "{hue:0.0, r:255, g:255, b:255, mouseXOffset:0.0, mouseYOffset: 0.0, hueXOffset:0.0}"
+      },
+      {
+        "name": "Screen Location",
+        "value": [
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "author": "vadage",
+  "name": "gomme qsg",
+  "modules": [
+    {
+      "name": "InventoryManager",
+      "active": true
+    },
+    {
+      "name": "MidClickFriends",
+      "active": true
+    },
+    {
+      "name": "MouseDelayFix",
+      "active": true
+    },
+    {
+      "name": "NoRotationSet",
+      "active": false
+    },
+    {
+      "name": "InventoryMove",
+      "active": false
+    },
+    {
+      "name": "AutoResponse",
+      "active": false
+    },
+    {
+      "name": "DeathTeleport",
+      "active": false
+    },
+    {
+      "name": "NoBreakDelay",
+      "active": false
+    },
+    {
+      "name": "AutoRespawn",
+      "active": true
+    },
+    {
+      "name": "NoJumpDelay",
+      "active": true
+    },
+    {
+      "name": "NameProtect",
+      "active": true
+    },
+    {
+      "name": "ScaffoldWalk",
+      "active": false
+    },
+    {
+      "name": "NoSlowdown",
+      "active": true
+    },
+    {
+      "name": "BlockBreaker",
+      "active": false
+    },
+    {
+      "name": "BreakDisplay",
+      "active": true
+    },
+    {
+      "name": "BlockOverlay",
+      "active": true
+    },
+    {
+      "name": "HitAnimation",
+      "active": true
+    },
+    {
+      "name": "FlagDetector",
+      "active": false
+    },
+    {
+      "name": "ChestStealer",
+      "active": false
+    },
+    {
+      "name": "Notifications",
+      "active": false
+    },
+    {
+      "name": "SoundEffect",
+      "active": false
+    },
+    {
+      "name": "FastLadders",
+      "active": false
+    },
+    {
+      "name": "ItemPhysics",
+      "active": true
+    },
+    {
+      "name": "StorageESP",
+      "active": false
+    },
+    {
+      "name": "Module List",
+      "active": true
+    },
+    {
+      "name": "NightVision",
+      "active": false
+    },
+    {
+      "name": "AutoClicker",
+      "active": false
+    },
+    {
+      "name": "Trajectories",
+      "active": false
+    },
+    {
+      "name": "HueControl",
+      "active": false
+    },
+    {
+      "name": "Scoreboard",
+      "active": false
+    },
+    {
+      "name": "Watermark",
+      "active": false
+    },
+    {
+      "name": "Keystrokes",
+      "active": true
+    },
+    {
+      "name": "AntiCactus",
+      "active": true
+    },
+    {
+      "name": "PingSpoof",
+      "active": false
+    },
+    {
+      "name": "ChestAura",
+      "active": false
+    },
+    {
+      "name": "LeetSpeak",
+      "active": false
+    },
+    {
+      "name": "LongJump",
+      "active": false
+    },
+    {
+      "name": "ImageESP",
+      "active": false
+    },
+    {
+      "name": "NoFriends",
+      "active": false
+    },
+    {
+      "name": "FastBreak",
+      "active": false
+    },
+    {
+      "name": "TrueSight",
+      "active": false
+    },
+    {
+      "name": "FastPlace",
+      "active": false
+    },
+    {
+      "name": "BlockESP",
+      "active": false
+    },
+    {
+      "name": "SuperHit",
+      "active": false
+    },
+    {
+      "name": "AutoTool",
+      "active": true
+    },
+    {
+      "name": "FreeCam",
+      "active": false
+    },
+    {
+      "name": "Hurtcam",
+      "active": true
+    },
+    {
+      "name": "MiniMap",
+      "active": false
+    },
+    {
+      "name": "Teleport",
+      "active": false
+    },
+    {
+      "name": "FakeLag",
+      "active": false
+    },
+    {
+      "name": "ItemESP",
+      "active": false
+    },
+    {
+      "name": "SpinBot",
+      "active": false
+    },
+    {
+      "name": "Criticals",
+      "active": false
+    },
+    {
+      "name": "Velocity",
+      "active": true
+    },
+    {
+      "name": "Parkour",
+      "active": false
+    },
+    {
+      "name": "KillAura",
+      "active": false
+    },
+    {
+      "name": "AntiBot",
+      "active": false
+    },
+    {
+      "name": "FastEat",
+      "active": false
+    },
+    {
+      "name": "TntESP",
+      "active": false
+    },
+    {
+      "name": "Tracers",
+      "active": false
+    },
+    {
+      "name": "Spotify",
+      "active": true
+    },
+    {
+      "name": "Shader",
+      "active": true
+    },
+    {
+      "name": "TabGui",
+      "active": true
+    },
+    {
+      "name": "Hotbar",
+      "active": true
+    },
+    {
+      "name": "Chams",
+      "active": false
+    },
+    {
+      "name": "NoBob",
+      "active": false
+    },
+    {
+      "name": "Teams",
+      "active": false
+    },
+    {
+      "name": "NoFov",
+      "active": false
+    },
+    {
+      "name": "Regen",
+      "active": false
+    },
+    {
+      "name": "Speed",
+      "active": false
+    },
+    {
+      "name": "Armor",
+      "active": true
+    },
+    {
+      "name": "NoFall",
+      "active": false
+    },
+    {
+      "name": "Sprint",
+      "active": true
+    },
+    {
+      "name": "Strafe",
+      "active": false
+    },
+    {
+      "name": "Flight",
+      "active": false
+    },
+    {
+      "name": "Jesus",
+      "active": false
+    },
+    {
+      "name": "VClip",
+      "active": false
+    },
+    {
+      "name": "Fade",
+      "active": false
+    },
+    {
+      "name": "Step",
+      "active": false
+    },
+    {
+      "name": "ESP",
+      "active": true
+    },
+    {
+      "name": "Blur",
+      "active": true
+    },
+    {
+      "name": "Gui",
+      "active": false
+    }
+  ]
+}
